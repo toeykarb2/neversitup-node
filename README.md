@@ -8,7 +8,7 @@ npm run test
 ```
 
 ```bash
-using jest for unit test
+using jest for unittest
 ```
 
 ## Backend Test
