@@ -5,8 +5,10 @@ First, run the test:
 
 ```bash
 npm run test
-# or
-yarn dev
+```
+
+```bash
+using jest for unit test
 ```
 
 ## Backend Test
